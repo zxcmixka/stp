@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #080809;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #080809;
+    --foreground: #ededed;
+  }
+}
+
+@font-face {
+  font-family: "Bit";
+  src: url("/fonts/BitcountGridDouble.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Popins";
+  src: url("/fonts/popins/Poppins-Bold.ttf") format("truetype");
+}
+
+body {
+  font-family: "Popins", sans-serif;
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.textBit{
+  font-family: "Bit", sans-serif;
+}
+
+.no-select {
+  user-select: none; /* основное свойство */
+  -webkit-user-select: none; /* для Safari/Chrome */
+  -moz-user-select: none; /* для Firefox */
+  -ms-user-select: none; /* для IE/Edge */
+}
+
+.neon{
+    line-height: 50px;
+    color: #FFF;
+    text-transform: uppercase;
+    animation: 4s neon-2 alternate-reverse infinite;
+}
+
+@keyframes neon-2 {
+    from {
+        text-shadow: 0 0 5px #FFF,
+        0 0 10px #FFF,
+        0 0 15px #FFF,
+        0 0 50px #BFE2FF;
+    }
+    to {
+        text-shadow: 0 0 20px #BFE2FF,
+        0 0 10px #BFE2FF,
+        0 0 20px #BFE2FF,
+        0 0 50px #BFE2FF,
+        0 0 100px #BFE2FF;
+    }
+}    
