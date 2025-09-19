@@ -21,9 +21,9 @@ export const Header = () => {
           Trading assistant
         </Link>
       </nav>
-
+        <Link href="/sah" >
         <img src={usericon.src} alt="User icon" className="w-8 h-8 rounded-full bg-white" />
-      
+      </Link>
     </header>
   );
 };
