@@ -1,6 +1,6 @@
 
 
-export default function() {
+export default function sah() {
     return(
         <div> SAH </div>
     )
