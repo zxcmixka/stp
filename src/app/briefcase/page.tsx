@@ -1,6 +1,6 @@
 
 
-export default function() {
+export default function briefcase() {
     return(
         <div>Game Briefcase</div>
     )

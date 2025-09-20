@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function() {
+export default function login() {
     return(
             
         <Link href="/register">or Register</Link>
