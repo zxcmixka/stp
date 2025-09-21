@@ -10,7 +10,6 @@
     "tailwind:init": "tailwindcss init -p"
   },
   "dependencies": {
-    "epress": "^0.0.1-security",
     "express": "^5.1.0",
     "mongoose": "^8.18.1",
     "next": "15.5.3",
