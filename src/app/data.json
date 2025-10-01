@@ -1,0 +1,267 @@
+{
+  "success": true,
+  "rgInventory": {
+    "3499866732291258474": {
+      "id": "3499866732291258474",
+      "classid": "3590270426",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 1
+    },
+    "3505495598245098222": {
+      "id": "3505495598245098222",
+      "classid": "3199731980",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 2
+    },
+    "3505495598249117185": {
+      "id": "3505495598249117185",
+      "classid": "2958811605",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 3
+    },
+    "3589942544998932082": {
+      "id": "3589942544998932082",
+      "classid": "2318264175",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 4
+    },
+    "4249750313425781346": {
+      "id": "4249750313425781346",
+      "classid": "4570840146",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 5
+    },
+    "7030723878884100690": {
+      "id": "7030723878884100690",
+      "classid": "2869923029",
+      "instanceid": "0",
+      "amount": "1",
+      "hide_in_china": 0,
+      "pos": 6
+    }
+  },
+  "rgCurrency": [],
+  "rgDescriptions": {
+    "3590270426_0": {
+      "appid": "571740",
+      "classid": "3590270426",
+      "instanceid": "0",
+      "icon_url": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYlkNfP92OzmEV0xhlJf0Tzbew9Go2vq7izJ8",
+      "icon_url_large": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYlkNfP92OzmEV0xhlOvEAxr6w9Go2ji4ytEs",
+      "icon_drag_url": "",
+      "name": "Hedge Trail",
+      "market_hash_name": "Hedge Trail",
+      "market_name": "Hedge Trail",
+      "name_color": "0070ff",
+      "background_color": "3C352E",
+      "type": "Trail",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "7",
+      "descriptions": "",
+      "tags": [
+        {
+          "category": "itemtype",
+          "internal_name": "trail",
+          "category_name": "Item Type",
+          "name": "Trail"
+        },
+        {
+          "category": "rarity",
+          "internal_name": "rare",
+          "category_name": "Rarity",
+          "name": "Rare"
+        }
+      ]
+    },
+    "3199731980_0": {
+      "appid": "571740",
+      "classid": "3199731980",
+      "instanceid": "0",
+      "icon_url": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYjUdWLcqw80wn1xVWGr4Cz7x3IVobyw",
+      "icon_url_large": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYjUdWLcqw80w42wZdE74Cz7xngdfcGQ",
+      "icon_drag_url": "",
+      "name": "Samurai",
+      "market_hash_name": "Samurai",
+      "market_name": "Samurai",
+      "name_color": "e3e3e3",
+      "background_color": "3C352E",
+      "type": "Hat",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "7",
+      "descriptions": "",
+      "tags": [
+        {
+          "category": "itemtype",
+          "internal_name": "hat",
+          "category_name": "Item Type",
+          "name": "Hat"
+        },
+        {
+          "category": "rarity",
+          "internal_name": "common",
+          "category_name": "Rarity",
+          "name": "Common"
+        }
+      ]
+    },
+    "2958811605_0": {
+      "appid": "571740",
+      "classid": "2958811605",
+      "instanceid": "0",
+      "icon_url": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYnUdVOdywxUAZ2xhWWOAcxqPZHaNv",
+      "icon_url_large": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYnUdVOdywxV8VyBNfWOAcxiOH11TT",
+      "icon_drag_url": "",
+      "name": "Canada Flag Trail",
+      "market_hash_name": "Canada Flag Trail",
+      "market_name": "Canada Flag Trail",
+      "name_color": "e3e3e3",
+      "background_color": "3C352E",
+      "type": "Trail",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "7",
+      "descriptions": "",
+      "tags": [
+        {
+          "category": "itemtype",
+          "internal_name": "trail",
+          "category_name": "Item Type",
+          "name": "Trail"
+        },
+        {
+          "category": "rarity",
+          "internal_name": "common",
+          "category_name": "Rarity",
+          "name": "Common"
+        }
+      ]
+    },
+    "2318264175_0": {
+      "appid": "571740",
+      "classid": "2318264175",
+      "instanceid": "0",
+      "icon_url": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYvUlMOteoxXEY2xdRKeMfwLfyqnQ_JBmmLABU",
+      "icon_url_large": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYvUlMOteoxXEY2xdRKfwT07z7qnQ_JDi82p8W",
+      "icon_drag_url": "",
+      "name": "Cowboy Black",
+      "market_hash_name": "Cowboy Black",
+      "market_name": "Cowboy Black",
+      "name_color": "e3e3e3",
+      "background_color": "3C352E",
+      "type": "Hat",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "7",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Stylish cowboy hat in black"
+        }
+      ],
+      "tags": [
+        {
+          "category": "itemtype",
+          "internal_name": "hat",
+          "category_name": "Item Type",
+          "name": "Hat"
+        },
+        {
+          "category": "rarity",
+          "internal_name": "common",
+          "category_name": "Rarity",
+          "name": "Common"
+        }
+      ]
+    },
+    "4570840146_0": {
+      "appid": "571740",
+      "classid": "4570840146",
+      "instanceid": "0",
+      "icon_url": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYhE9WOtmz7XYr6RlbGvxc0bX5AHHEZcI",
+      "icon_url_large": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYhE9WOtmz7XYr9hVIEfVc0bX5Vac-lLo",
+      "icon_drag_url": "",
+      "name": "Zimbabwe Flag Trail",
+      "market_hash_name": "Zimbabwe Flag Trail",
+      "market_name": "Zimbabwe Flag Trail",
+      "name_color": "e3e3e3",
+      "background_color": "3C352E",
+      "type": "Trail",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "7",
+      "descriptions": "",
+      "tags": [
+        {
+          "category": "itemtype",
+          "internal_name": "trail",
+          "category_name": "Item Type",
+          "name": "Trail"
+        },
+        {
+          "category": "rarity",
+          "internal_name": "common",
+          "category_name": "Rarity",
+          "name": "Common"
+        }
+      ]
+    },
+    "2869923029_0": {
+      "appid": "571740",
+      "classid": "2869923029",
+      "instanceid": "0",
+      "icon_url": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYm0hcNNm__kwn1xVWGr4Cz7w_-teWww",
+      "icon_url_large": "JbD-RYIru5SWU3VoY6Q6FfzOZ6Bnplpk3fcoI3Dx9WLjUD6yfYSH0MVYm0hcNNm__kw42wZdE74Cz7xujQwJbg",
+      "icon_drag_url": "",
+      "name": "England Flag Trail",
+      "market_hash_name": "England Flag Trail",
+      "market_name": "England Flag Trail",
+      "name_color": "e3e3e3",
+      "background_color": "3C352E",
+      "type": "Trail",
+      "tradable": 1,
+      "marketable": 1,
+      "commodity": 1,
+      "market_tradable_restriction": "7",
+      "market_marketable_restriction": "7",
+      "descriptions": "",
+      "tags": [
+        {
+          "category": "itemtype",
+          "internal_name": "trail",
+          "category_name": "Item Type",
+          "name": "Trail"
+        },
+        {
+          "category": "rarity",
+          "internal_name": "common",
+          "category_name": "Rarity",
+          "name": "Common"
+        }
+      ]
+    }
+  },
+  "more": false,
+  "more_start": false
+}
